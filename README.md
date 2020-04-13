@@ -1,5 +1,7 @@
 # Online Dijital CV Scripti 
 
+# <a href="http://cv.turklojen.com/">DEMO</a>
+
 ### Özellikler
 ### - Bilgi Güncelle
 ### - Beceri Ekle

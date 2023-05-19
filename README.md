@@ -23,7 +23,7 @@
 ### - Müzik Ekle - Tema Rengi Değiştir
 ### - Yönetici Bilgileri Değiştir
 
-# CODED BY TURKLOJEN & MUHAMMED YASİN BULUT
+
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/32311900/79169758-ef17df00-7df5-11ea-8772-27c5ca8aac7c.JPG)
 
